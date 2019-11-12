@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "31934",
 "files": {
+	"/assets/images/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/images/favicon.ico",
+		"oF": 0
+		},
 	"/assets/style.scss": {
 		"aP": 1,
 		"bl": 1,
