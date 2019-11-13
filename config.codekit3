@@ -294,6 +294,50 @@
 		"oAP": "/assets/fonts/proxima-nova/Mark Simonson - Proxima Nova Thin-webfont.woff2",
 		"oF": 0
 		},
+	"/assets/images/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 2258,
+		"oA": 0,
+		"oAP": "/assets/images/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 2138,
+		"oA": 0,
+		"oAP": "/assets/images/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 636,
+		"oA": 0,
+		"oAP": "/assets/images/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 848,
+		"oA": 0,
+		"oAP": "/assets/images/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -301,6 +345,27 @@
 		"oA": 0,
 		"oAP": "/assets/images/favicon.ico",
 		"oF": 0
+		},
+	"/assets/images/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 2062,
+		"oA": 0,
+		"oAP": "/assets/images/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/images/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/assets/scss/style.scss": {
 		"aP": 0,
@@ -349,6 +414,14 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
+	"/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site.webmanifest",
+		"oF": 0
+		},
 	"/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -368,7 +441,7 @@
 	"creationDate": 595281342.09488797,
 	"displayValue": "blomland",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_brown",
+	"iconImageName": "/assets/images/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
